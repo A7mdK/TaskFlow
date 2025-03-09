@@ -1,0 +1,2 @@
+# (Task Management Tool): 
+## A streamlined task management application for organizing tasks, tracking progress, and collaborating with teams. Features include drag-and-drop functionality, due date tracking, and RESTful API integration.
